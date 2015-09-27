@@ -1,0 +1,4 @@
+MAPSET: user1
+GISDBASE: grassdata
+LOCATION_NAME: nc_basic_spm_grass7
+GUI: text
